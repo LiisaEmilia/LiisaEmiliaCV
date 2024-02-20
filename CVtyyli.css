@@ -1,0 +1,103 @@
+div{
+    border: 1px;
+    border-color:black;
+    border-style: solid;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital, wght@0")
+html, body {margin:0;
+padding:0;
+font-family: "Open Sans", sans-serif;
+}
+
+<link> <href>="CV.html rel=" stylesheet">
+.header {
+    backround-image: src=("Blueberry1.jpg");
+    backround-position: center;
+    backround-size: cover;
+}
+
+.header h1 {
+    font-size: 60px;
+    text-align: center;
+    color:black;
+    padding:150px 10px 150px 10px;
+}
+
+.content {width: 90%;
+margin:auto;
+font-size: 20px;
+}
+</img src=file:c:\Users\liisa\profiilikuva.jpg.jpg alt="Profiilikuva" width="460" height="345">
+c:\Users\liisa\profiilikuva.jpg.jpg
+</body>
+</html>
+
+.lead {
+    font-size: 30px;
+}
+
+.quote {
+    font-size: 30px;
+    text-align: center;
+    color: #4472C4;
+    padding: 30px;
+    padding: 30px;
+
+    .content img {
+        width:100%;
+        padding: 20px 0px 20px 0px;
+    }
+
+    .footer p {color:#4472C4
+    margin-top:40px;
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.footer p {
+    color:#4472C4
+    text-align: center;
+    padding: 20px;
+    margin:0px;
+}
+
+@media only screen and (min-width: 650px) {
+    .content {width: 75%;
+        
+        {
+        
+    }
+}
+.header h1 {
+    padding:200px 10px 200px 10px;
+}
+.quote {
+    font-size: 40px;
+    
+
+@media only screen and (min-width: 1025px) {
+    .content {width: 55%;
+        
+        {
+        
+    }
+}
+.header h1 {
+    font-size: 70px;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
